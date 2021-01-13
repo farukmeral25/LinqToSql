@@ -1,0 +1,10 @@
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\bin\Debug\20200617_LinqToSql_Giris.exe.config
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\bin\Debug\20200617_LinqToSql_Giris.exe
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\bin\Debug\20200617_LinqToSql_Giris.pdb
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\obj\Debug\20200617_LinqToSql_Giris.csprojAssemblyReference.cache
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\obj\Debug\_20200617_LinqToSql_Giris.Form1.resources
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\obj\Debug\_20200617_LinqToSql_Giris.Properties.Resources.resources
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\obj\Debug\20200617_LinqToSql_Giris.csproj.GenerateResource.cache
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\obj\Debug\20200617_LinqToSql_Giris.csproj.CoreCompileInputs.cache
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\obj\Debug\20200617_LinqToSql_Giris.exe
+E:\Entity\20200617_LinqToSql_Giris\20200617_LinqToSql_Giris\obj\Debug\20200617_LinqToSql_Giris.pdb
